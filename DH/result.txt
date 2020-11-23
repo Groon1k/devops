@@ -1,0 +1,2 @@
+params: {'g': 10, 'p': 23, 'Alice': 19}
+Secret key: 11
